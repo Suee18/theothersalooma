@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+/*slider*/
+
+.ant-slider-track {
+  background-color: rgb(255, 0, 0) !important;
+}
+
+.ant-slider-rail {
+  background-color: #65656b !important;  
+}
+
+/* 
+.ant-slider .ant-slider-handle:not(.ant-tooltip-open) {
+  background-color: rgb(255, 0, 0) !important;
+  border-color: rgb(255, 0, 0) !important;
+}
+
+.ant-slider .ant-slider-handle:focus, 
+.ant-slider .ant-slider-handle:hover,
+.ant-slider .ant-slider-handle:active {
+  background-color: rgb(255, 0, 0) !important;
+  border-color: rgb(255, 0, 0) !important;
+} */
+
+
+
+.title {
+  font-size: 1.3em;
+  color: #000;
+  margin-bottom: 0.5em;
+  margin-right: 35rem;
+
+}
